@@ -17,7 +17,7 @@ fun Dashboard(navcotroller:NavController){
         Button(onClick = { navcotroller.navigate(NavigationConstants.USER_MONTHLY_LEDGER_DASH) }) {
             Text("Click Here to check Monthly Balance")
         }
-        Text("version: V_0_0_4")
+        Text("version: V_0_0_5")
     }
 
 }
