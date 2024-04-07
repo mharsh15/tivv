@@ -1,13 +1,14 @@
 buildscript {
     ext {
         compose_ui_version = '1.6.5'
-        version_nav_graph = '2.5.0-rc01'
+        version_nav_graph = '2.7.7'
         version_room = "2.4.2"
         lifecycle_version = "2.5.1"
         arch_version = "2.1.0"
         version_core="1.12.0"
         version_ktx="2.7.0"
-    version_compose="1.6.1"
+        version_compose="1.8.2"
+        version_material_three="1.2.1"
 
     }
 
